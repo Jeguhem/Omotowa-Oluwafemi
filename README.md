@@ -20,6 +20,6 @@ I'm oluwafemi (aka Jeguhem), a passionate developer and tech enthusiast 🚀. I'
 
 ## 🔥 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Jeguhem&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jeguhem&show_icons=true&theme=radical)
 
 Thanks for visiting! Feel free to check out my repositories or drop me a message if you want to collaborate on something cool. 😊✨
