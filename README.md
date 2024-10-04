@@ -18,8 +18,4 @@ I'm oluwafemi (aka Jeguhem), a passionate developer and tech enthusiast 🚀. I'
 - LinkedIn: [oluwafemi-omotowa](https://www.linkedin.com/in/oluwafemi-omotowa/) 💼
 - Email: oluwafemisamuel2004@gmail.com 📧
 
-## 🔥 GitHub Stats
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jeguhem&show_icons=true&theme=radical)
-
 Thanks for visiting! Feel free to check out my repositories or drop me a message if you want to collaborate on something cool. 😊✨
